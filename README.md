@@ -9,4 +9,8 @@ Meu nome é Eric Kalel
 ### Você entrar em contato comigo 📫
 
 eric.braga.lopes@escola.pr.gov.br 
+
 @ericmbi 
+
+
+![](https://media.tenor.com/yjVdrz5vD-gAAAAM/simpsons-halloween.gif)
