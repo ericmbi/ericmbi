@@ -1,8 +1,8 @@
 ### Boas vindas ao meu perfil 💙
 
 Meu nome é Eric Kalel
-
-- Estou estudando na alura
+course/github-compartilhando-projetos/task/124370)
+- Estou estudando na [alura](https://cursos.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
